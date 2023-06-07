@@ -90,7 +90,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #34b7a7;
+  background: #000000;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -461,8 +461,8 @@ h6 {
   border-radius: 50px;
   transition: 0.5s;
   margin-top: 30px;
-  color: #fff;
-  background: #070707;
+  color: #000000;
+  background: #e2e0e0;
 }
 
 #hero .btn-about:hover {
@@ -595,19 +595,19 @@ section {
 --------------------------------------------------------------*/
 .about .content h3 {
   font-weight: 700;
-  font-size: 26px;
-  color: #e10f0f;
+  font-size: 25px;
+  color: #0a0000;
 }
 
 .about .content ul {
   list-style: none;
-  color: #24e10f;
+  color: #070707;
   padding: 0;
 }
 
 .about .content ul li {
   padding-bottom: 10px;
-  color: #e1b00f;
+  color: #050400;
 }
 
 .about .content ul i {
